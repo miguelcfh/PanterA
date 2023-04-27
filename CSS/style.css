@@ -1,0 +1,24 @@
+header{
+    background-color: rgb(73, 8, 8);
+}
+.banner{
+    width: 100%;
+}
+body{
+    background-color: black;
+}
+p{
+    color:  whitesmoke;
+}
+h2{
+    color: whitesmoke;
+}
+h3{
+    color: whitesmoke
+}
+
+.container{
+    width: 80%;
+    background-color: rgb(73, 8, 8);
+    margin: auto;
+}
